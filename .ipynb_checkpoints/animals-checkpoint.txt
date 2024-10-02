@@ -1,6 +1,0 @@
-Name: Leo, Genus: Panthera
-Name: Maximus, Genus: Elephas
-Name: Beringei, Genus: Gorilla
-Name: Melanoleuca, Genus: Ailuropoda
-Name: Delphis, Genus: Delphinus
-Name: Lupus, Genus: Canis
